@@ -1,5 +1,7 @@
 # WEB_bangame
 website bán game cá nhân
+mở Xamp lên , import SQL tải từ git về đặt tên cho đúng với connect 
+
 Login User
 
 Username : gosuzero2002@gmail.com 
